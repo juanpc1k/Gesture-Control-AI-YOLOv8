@@ -182,4 +182,4 @@ Carga automática del modelo entrenado y detección en tiempo real.
 
 ## 👨‍💻 Autor
 
-Proyecto desarrollado como sistema completo de visión artificial aplicada en tiempo real.
+Proyecto desarrollado como sistema completo de visión artificial aplicada en tiempo real. JuanPC1k
